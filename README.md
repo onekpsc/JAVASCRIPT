@@ -1,2 +1,2 @@
 # JAVASCRIPT
-Javascript Complete Course
+Javascript Complete Course In Kannada
